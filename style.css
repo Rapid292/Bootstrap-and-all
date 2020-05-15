@@ -1,0 +1,23 @@
+.box1 {
+   background-color: yellowgreen;
+   width: 600px;
+   height: 300px;
+}
+
+.box2 {
+   background-color: pink;
+   width: 400px;
+   height: 250px;
+}
+
+.box3 {
+   background-color: grey;
+   width: 100px;
+   height: 200px;
+}
+
+.box4 {
+   background-color: purple;
+   width: 300px;
+   height: 100px;
+}
